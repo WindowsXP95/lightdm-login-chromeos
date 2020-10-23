@@ -1,7 +1,7 @@
 [Desktop Entry]
-Name=Chromium OS
+Name=Ash
 Comment=This session will start Chromium OS
-Exec=chromeos
-TryExec=chromeos
+Exec=chrome
+TryExec=chrome
 Type=Application
 
